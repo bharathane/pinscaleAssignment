@@ -1,0 +1,29 @@
+.debt-con {
+  background-color: #fff;
+  border-radius: 12px;
+  margin: 20px;
+  margin-bottom: 0;
+  padding: 20px;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-bottom: 0;
+  display: flex;
+  flex-grow: 1;
+  justify-content: space-around;
+}
+
+.debt-image {
+  height: 160px;
+}
+
+.debt-amt-text {
+  display: flex;
+  align-items: center;
+  color: #fe5c73;
+  margin-bottom: 0;
+}
+
+.deb-text {
+  color: #718ebf;
+  margin: 0;
+}
